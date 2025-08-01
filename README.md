@@ -1,9 +1,9 @@
 ## Helloo I am Ananya Ratakonda :D
 
 I am a recent graduate from University of California, Davis, with a bachelors in **Computer Science** with 2 minors: **Statistics** and **Logic**.
-< br / > 
+
 I have experience with Data related stuff like **Data Analysis, ML, Data visualization, and Web-Scraping**. I have some cool projects pinned so please check them out :))
-< br / > 
+
 I also love working on **Front-End** projects, and have experiece using NextJS, React, JS, HTML, Three.js, Tailwind CSS, SCSS, and CSS. 
 
 If you need a Front-End programmer please reach out :D
