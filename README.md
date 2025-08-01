@@ -1,6 +1,6 @@
 ## Helloo I am Ananya Ratakonda :D
 
-I am a recent graduate from University of California, Davis, with a bachelors in **Computer Science** with 2 minors: **Statistics** and **Logic**.
+A recent graduate -> University of California, Davis: Bachelors in **Computer Science** with 2 minors: **Statistics** and **Logic**.
 
 I have experience with Data related stuff like **Data Analysis, ML, Data visualization, and Web-Scraping**. I have some cool projects pinned so please check them out :))
 
